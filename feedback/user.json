@@ -1,0 +1,31 @@
+{
+  "userTable": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin",
+      "token": "dkshfkjdcnxz789mcndshfdskcn",
+      "type": "user",
+      "emailId": "admin@gmail.com",
+      "fullName": "Admin"
+    },
+    {
+      "id": 2,
+      "username": "samiksha",
+      "password": "samiksha",
+      "token": "dkshfkjdcnxz123mcndshfdskcn",
+      "type": "user",
+      "emailId": "abc@gmail.com",
+      "fullName": "Samiksha Sapkota"
+    },
+    {
+      "id": 3,
+      "username": "bishal",
+      "password": "bishal",
+      "token": "dkshfkjdcnxz456mcndshfdskcn",
+      "type": "user",
+      "emailId": "xyz@gmail.com",
+      "fullName": "Bishal Nepal"
+    }
+  ]  
+}

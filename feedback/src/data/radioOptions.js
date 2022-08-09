@@ -1,0 +1,52 @@
+export const radioOptions=[
+{
+    "label":"1",
+    "value":"1",
+    "id":"first"
+},
+{
+    "label":"2",
+    "value":"2",
+    "id":"second"
+},
+{
+    "label":"3",
+    "value":"3",
+    "id":"third"
+},
+{
+    "label":"4",
+    "value":"4",
+    "id":"fourth"
+},
+{
+    "label":"5",
+    "value":"5",
+    "id":"fifth"
+},
+{
+    "label":"6",
+    "value":"6",
+    "id":"sixth"
+},
+{
+    "label":"7",
+    "value":"7",
+    "id":"seventh"
+},
+{
+    "label":"8",
+    "value":"8",
+    "id":"eighth"
+},
+{
+    "label":"9",
+    "value":"9",
+    "id":"ninth"
+},
+{
+    "label":"10",
+    "value":"10",
+    "id":"tenth"
+}
+];
